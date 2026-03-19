@@ -1,16 +1,13 @@
-# todolist
+Todo List Flutter
 
-A new Flutter project.
+A simple Todo List app built with Flutter using Bloc/Cubit for state management.
 
-## Getting Started
+Features
+- Add tasks
+- Delete tasks
+- State management using Cubit
 
-This project is a starting point for a Flutter application.
+Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 1](screenshot/Screenshot_1.jpeg)
+![Screenshot 2](screenshot/Screenshot_2.jpeg)
